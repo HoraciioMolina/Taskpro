@@ -1,7 +1,10 @@
-[{
-  "property": "testValue1",
-  "value": "testName1"
-}, {
-  "property": "testValue2",
-  "value": "testName2"
-}]
+[
+    {
+        "property": "testValue1",
+        "value": "testName1"
+    },
+    {
+        "property": "testValue2",
+        "value": "testName2"
+    }
+]
